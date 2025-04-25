@@ -54,3 +54,6 @@ export EXECUTOR_PROCESS_PENDING_ORDERS_FROM_API=true
 ./executor
 ```
 # Join Channel Airdrop Sambil Rebahan : https://t.me/kingfeeder
+
+# bot check balance 
+https://t.me/saldo_t3rn_bot
